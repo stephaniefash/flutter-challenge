@@ -1,0 +1,3 @@
+[submodule "flutter-login-ui-challenge"]
+	path = flutter-login-ui-challenge
+	url = git@github.com:stephaniefash/flutter-login-ui-challenge.git
